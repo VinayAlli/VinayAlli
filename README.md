@@ -1,4 +1,4 @@
-## Hi there 👋 Welcome to my GitHub!
+## Hi there 👋 Transform Ideas Into Code
 I'm an enthusiastic MS Computer Science student with a deep interest in **Machine Learning**, **Deep Learning**, and **Web Development**. I love solving problems, exploring new technologies. I am actively looking for internship opportunities in the fields of **Machine Learning**, **Deep Learning**, **Web Development**.
 
 ## 🚀 Skills and Technologies
