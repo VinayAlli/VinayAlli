@@ -14,6 +14,7 @@ I'm an enthusiastic MS Computer Science student with a deep interest in **Machin
 - **Full-stack web development** using modern frameworks like React.js and Node.js
 
 🌟 Portfolio & Links
+
 Portfolio: https://vinayalli.github.io/Portfolio/
 
 LinkedIn: https://www.linkedin.com/in/vinay-viswanadh-alli/
