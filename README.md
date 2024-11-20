@@ -15,8 +15,11 @@ I'm an enthusiastic MS Computer Science student with a deep interest in **Machin
 
 🌟 Portfolio & Links
 Portfolio: https://vinayalli.github.io/Portfolio/
+
 LinkedIn: https://www.linkedin.com/in/vinay-viswanadh-alli/
+
 GitHub: https://github.com/VinayAlli
+
 📚 Featured Projects
 1. Anime Forecasting Insight
 Description:
