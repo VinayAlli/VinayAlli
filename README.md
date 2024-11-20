@@ -1,5 +1,5 @@
 ## Hi there 👋
-Welcome to my GitHub! I'm an enthusiastic MS Computer Science student with a deep interest in **Machine Learning**, **Deep Learning**, and **Web Development**. I love solving problems, exploring new technologies, and building projects that make a difference.
+Welcome to my GitHub! I'm an enthusiastic MS Computer Science student with a deep interest in **Machine Learning**, **Deep Learning**, and **Web Development**. I love solving problems, exploring new technologies. I am actively looking for internship opportunities in the fields of **Machine Learning**, **Deep Learning**, **Web Development**.
 
 ## 🚀 Skills and Technologies
 - **Programming Languages:** Python, Java, C++, JavaScript, C
