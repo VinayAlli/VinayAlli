@@ -7,7 +7,7 @@ Welcome to my GitHub! I'm an enthusiastic MS Computer Science student with a dee
 - **Machine Learning & AI:** TensorFlow, Keras, scikit-learn, PyTorch
 - **Databases:** MySQL, MongoDB
 - **Version Control:** Git, GitHub
-- **Tools:** VS Code, Jupyter Notebooks, Docker, Kubernetes, Linux
+- **Tools:** VS Code, Jupyter Notebooks
 
 ## 🌱 Currently Learning
 - Advanced topics in **Deep Learning** and **Reinforcement Learning**
