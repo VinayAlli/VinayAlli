@@ -51,7 +51,6 @@ Created a machine learning model to assess credit risk and predict loan defaults
 
 ---
 
-This version adds clear visual separation between each project and uses relevant emojis to make the section more engaging. Let me know if you'd like to refine it further!
 🤝 Let's Connect!
 I'm always excited to connect with fellow developers, mentors, and industry professionals. Feel free to reach out to me on LinkedIn or check out my projects here on GitHub!
 <!--
