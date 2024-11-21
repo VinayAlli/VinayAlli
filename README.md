@@ -61,10 +61,10 @@ Created a machine learning model to assess credit risk and predict loan defaults
 ## 🤝 Let's Connect!
 I'm always excited to connect with fellow developers, mentors, and industry professionals. Feel free to reach out to me on LinkedIn or check out my projects here on GitHub!
 
-- **Portfolio**: [Vinay Alli Portfolio](https://vinayalli.github.io/Portfolio/)
-- **LinkedIn**: [Vinay Alli on LinkedIn]
-- **GitHub**: [Vinay Alli on GitHub]
+- **Portfolio**: (https://vinayalli.github.io/Portfolio/)
+- **LinkedIn**: (https://www.linkedin.com/in/vinay-viswanadh-alli/)
+- **GitHub**: (https://github.com/VinayAlli)
 
 ## 📫 Contact Me
 - ✉️ Email: allivinay2001@gmail.com
-- 📞 Phone: +91-8341837274
+- 📞 Phone: +1 9133438444
