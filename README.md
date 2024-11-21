@@ -1,4 +1,4 @@
-# Hi there 👋 Welcome to My GitHub Profile!
+**Empowering Ideas Through Code**
 
 I'm **Vinay Viswanadh Alli**, an enthusiastic MS Computer Science student with a deep interest in **Machine Learning** 🤖, **Deep Learning** 📊, and **Web Development** 🌐. I love solving problems and exploring new technologies. I'm actively looking for internship opportunities in these fields.
 
