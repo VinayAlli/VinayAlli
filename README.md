@@ -42,19 +42,19 @@ I'm **Vinay Viswanadh Alli**, an enthusiastic MS Computer Science student with a
 
 ## 📚 Featured Projects
 
-### 🌟 Anime Forecasting Insight
+### 🌟 [Anime Forecasting Insight](https://github.com/Team2Pbdm/ANIMEFORECASTINGINSIGHT)
 Predicted ratings for new anime films using a dataset from MyAnimeList, helping guide content creation strategies in the anime industry.
 - 🛠️ Technologies: Python, scikit-learn, TensorFlow, pandas
 
-### 🎵 Music Recommendation System with Emotion Detection
-Built a system to detect emotions from facial expressions and speech patterns, recommending music based on the detected mood.
+### 🎵 [Music Recommendation System](https://github.com/viswanadhalli/MusicRecommendationSystem)
+Developed an emotion detection and music recommendation system using deep learning techniques based on facial and speech patterns.
 - 🛠️ Technologies: Python, Keras, OpenCV, TensorFlow, Speech Recognition
 
-### 💬 Socialite - React Firebase Social Media App
+### 💬 [Socialite - React Firebase Social Media App](https://react-app-65a17.web.app/)
 Developed a social media app with real-time updates, where users can securely sign in, post content, and interact with others.
 - 🛠️ Technologies: React, Firebase, JavaScript, CSS
 
-### 💳 Credit Risk Analysis
+### 💳 [Credit Risk Analysis](https://vinayalli.github.io)
 Created a machine learning model to assess credit risk and predict loan defaults, aiding financial decision-making.
 - 🛠️ Technologies: Python, scikit-learn, pandas, matplotlib
 
@@ -62,8 +62,8 @@ Created a machine learning model to assess credit risk and predict loan defaults
 I'm always excited to connect with fellow developers, mentors, and industry professionals. Feel free to reach out to me on LinkedIn or check out my projects here on GitHub!
 
 - **Portfolio**: [Vinay Alli Portfolio](https://vinayalli.github.io/Portfolio/)
-- **LinkedIn**: [Vinay Alli on LinkedIn](https://www.linkedin.com/in/vinay-viswanadh-alli/)
-- **GitHub**: [Vinay Alli on GitHub](https://github.com/VinayAlli)
+- **LinkedIn**: [Vinay Alli on LinkedIn]
+- **GitHub**: [Vinay Alli on GitHub]
 
 ## 📫 Contact Me
 - ✉️ Email: allivinay2001@gmail.com
